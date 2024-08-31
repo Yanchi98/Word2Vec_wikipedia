@@ -9,9 +9,9 @@
 
 `2 安装依赖` : 
 
-pip install hanziconv
+pip install hanziconv，繁体转中文，wikepedia上大量繁体文本
 
-pip install gensim
+pip install gensim，训练
 
 `3 分步执行notebook代码`，训练默认是5epoch
 
